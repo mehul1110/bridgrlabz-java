@@ -13,7 +13,7 @@ public class BMICalculatorTeam {
         int n = data.length;
         String[][] out = new String[n][4];
         for (int i = 0; i < n; i++) {
-            double weight = data[i][0]; // kg
+            double weight = data[i][0]; // kg 
             double heightCm = data[i][1];
             double heightM = heightCm / 100.0;
             double bmi = 0.0;
