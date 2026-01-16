@@ -1,4 +1,4 @@
-# bridgrlabz-java-cg
+# bridgrlabz-java
 **DAILY LOG**
 
 8 Dec 2025
