@@ -1,19 +1,29 @@
 import java.util.Scanner;
 
+/*
+ * Program to check if a string is a palindrome
+ */
 public class PalindromeCheckExtra {
+
     public static boolean isPalindrome(String s) {
         int i = 0, j = s.length() - 1;
+        // Loop to compare characters from both ends moving inwards
         while (i < j) {
+            // Return false if mismatch found
             if (s.charAt(i) != s.charAt(j)) return false;
-            i++; j--;
+            i++; 
+            j--;
         }
         return true;
     }
 
     public static void main(String[] args) {
+        // Initialize Scanner
         try (Scanner sc = new Scanner(System.in)) {
             System.out.print("Enter text: ");
             String s = sc.nextLine();
+            
+            // Display result
             System.out.println("Is palindrome? " + isPalindrome(s));
         }
     }
