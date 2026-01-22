@@ -1,5 +1,5 @@
 # bridgrlabz-java
-## **DAILY LOG**
+## **DAILY PROGRESS LOG BRIDGELABZ TRAINING**
 
 ### **8 Dec 2025**
 - learned about git flow and basics of c#
@@ -32,7 +32,7 @@
 - completed all levels and extras of strings and started with week 2 - object oriented programming
 
 ### **16 Jan 2026**
--completed all questions for object oriented programming
+- completed all questions for object oriented programming
 
 ### **17 Jan 2026**
 - fixed git structure and corrected file name, finished questions of contructors and instances
