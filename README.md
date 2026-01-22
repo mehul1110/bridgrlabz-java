@@ -31,3 +31,18 @@
 ### **14 Jan 2026**
 - completed all levels and extras of strings and started with week 2 - object oriented programming
 
+### **16 Jan 2026**
+-completed all questions for object oriented programming
+
+### **17 Jan 2026**
+- fixed git structure and corrected file name, finished questions of contructors and instances
+
+### **19 Jan 2026**
+- completed all questions for object modelling and class diagram
+  
+### **20 Jan 2026**
+- completed questions for types of inheritance and started learning about encapsulation 
+### **21 Jan 2026**
+- finished all week 2 questions and pushed to feature/objectorientedprogramming
+### **22 Jan 2026**
+- solvd questions related to linked lists and stack
