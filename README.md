@@ -45,4 +45,14 @@
 ### **21 Jan 2026**
 - finished all week 2 questions and pushed to feature/objectorientedprogramming
 ### **22 Jan 2026**
-- solvd questions related to linked lists and stack
+- solved questions related to linked lists and stack
+### **23 Jan 2026**
+- completed questions of hash and all sorting algorithms
+### **24 Jan 2026**
+- completed all stringbuffer, file reader and binary and linear search questions
+### **27 Jan 2026**
+- completed and submitted algorithms runtime analysis and big o notation questions
+### **28 Jan 2026**
+- understood and solved questions for generic classes, methods and classes
+### **29 Jan 2026**
+- finished questions for java collections - set, list, map, stack. started with factory robot hazard analyzer system
