@@ -52,7 +52,20 @@
 - completed all stringbuffer, file reader and binary and linear search questions
 ### **27 Jan 2026**
 - completed and submitted algorithms runtime analysis and big o notation questions
+
 ### **28 Jan 2026**
 - understood and solved questions for generic classes, methods and classes
 ### **29 Jan 2026**
 - finished questions for java collections - set, list, map, stack. started with factory robot hazard analyzer system
+
+### **30 Jan 2026**
+- solved question for i/o streams, buffer reader/writer
+### **31 Jan 2026**
+- review conducted for week3
+### **2 Feb 2026**
+- completed questions on exceptions and throws
+### **3 Feb 2026**
+- learnt and solved problems on regex patterns
+### **4 Feb 2026**
+- completed all regex questions and started with JUnit
+### **5 Feb 2026**
