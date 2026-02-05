@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 public class WordCensor {
     public static void main(String[] args) {
         String input = "This is a damn bad example with some stupid words.";
-        String[] badWords = { "This", "damn", "stupid" };
+        String[] badWords = { "bad",  "damn", "stupid" };
 
         String censoredOutput = input;
         for (String word : badWords) {
