@@ -69,3 +69,14 @@
 ### **4 Feb 2026**
 - completed all regex questions and started with JUnit
 ### **5 Feb 2026**
+- submitted all junit questions
+### **6 Feb 2026**
+- completed one level of java features problems
+### **7 Feb 2026**
+- power skilld program day1
+### **9 Feb 2026**
+- week 4 review and completed java feature level 2
+### **10 Feb 2026**
+- completed java 8 features project
+### **11 Feb 2026**
+
