@@ -1,0 +1,5 @@
+# Java compiled files
+*.class
+
+# CSV files in csvhandling folder
+csvhandling/*.csv
