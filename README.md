@@ -79,4 +79,8 @@
 ### **10 Feb 2026**
 - completed java 8 features project
 ### **11 Feb 2026**
-
+- submitted csv and json handling files
+### **12 Feb 2026**
+- completed lexical twist puzzle application
+### **13 Feb 2026**
+-
