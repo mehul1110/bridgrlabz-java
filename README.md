@@ -61,7 +61,7 @@
 ### **30 Jan 2026**
 - solved question for i/o streams, buffer reader/writer
 ### **31 Jan 2026**
-- review conducted for week3
+- review conducted for week4
 ### **2 Feb 2026**
 - completed questions on exceptions and throws
 ### **3 Feb 2026**
@@ -75,7 +75,7 @@
 ### **7 Feb 2026**
 - power skilld program day1
 ### **9 Feb 2026**
-- week 4 review and completed java feature level 2
+- week 5 review and completed java feature level 2
 ### **10 Feb 2026**
 - completed java 8 features project
 ### **11 Feb 2026**
@@ -84,3 +84,70 @@
 - completed lexical twist puzzle application
 ### **13 Feb 2026**
 -
+### **14 Feb 2026**
+- softskills presentation
+### **16 Feb 2026**
+- review conducted for week 6
+### **17 Feb 2026**
+- completed trees and graphs problem statement
+### **18 Feb 2026**
+- submission of annotations and reflections
+### **19 Feb 2026**
+- practiced design pattern questions
+### **20 Feb 2026**
+- completed design pattern questions
+### **21 Feb 2026**
+- softskills presentation
+### **23 Feb 2026**
+- completed multi threading problem statements
+### **24 Feb 2026**
+- review conducted for week 7, started QuantityMeasurementApp
+### **25 Feb 2026**
+- started mysql intro problems, updates QMA with new UC
+### **26 Feb 2026**
+- new UCs added to QMA
+### **27 Feb 2026**
+- started JDBC practice problems
+### **28 Feb 2026**
+- softskills presentation
+### **02 Mar 2026**
+- started JDBC transaction problems
+### **03 Mar 2026**
+- updated QMA with new UCs
+### **05 Mar 2026**
+- introduction to json data
+### **06 Mar 2026**
+- completed QMA with all UCs
+### **09 Mar 2026**
+- review conducted for week 8
+### **10 Mar 2026**
+- submission of tomcat servlet
+### **11 Mar 2026**
+- started with developement of hello messaging app
+### **12 Mar 2026**
+- submission of REST API calls
+### **13 Mar 2026**
+- solved request handling problems
+### **14 Mar 2026**
+- review conducted for week 9
+### **16 Mar 2026**
+- revision for mock M1
+### **18 Mar 2026**
+- mock M1 assessment
+### **19 Mar 2026**
+- submission of spring framework assignment
+### **20 Mar 2026**
+- set up EmployeePayrollApp
+### **21 Mar 2026**
+- submission of spring framework and multi-layer development with H2 DB
+### **22 Mar 2026**
+- completed Spring EPA set up with service Layer
+### **23 Mar 2026**
+- started with AddresBookApp
+### **24 Mar 2026**
+- M1 Assessment
+### **25 Mar 2026**
+- updating application settings, validators and exception handlers
+### **26 Mar 2026**
+### **27 Mar 2026**
+
